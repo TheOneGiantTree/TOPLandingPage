@@ -113,10 +113,10 @@ a {
    text-decoration: none; 
 }
 a.headlink:visited {
-    color:#e5e7eb
+    color:#e5e7eb;
 }
 a.quotelink:visited {
-    color:#1f2937
+    color:#1f2937;
 }
 a.headlink:hover {
     color:yellow;
